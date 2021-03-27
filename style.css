@@ -1,0 +1,97 @@
+body {
+background-color:rgba(128,225,0,0.233);
+}
+
+.card {
+  b
+max-width:300px;
+margin:80px auto;
+text-align:center;
+padding-bottom: 5px;
+background-color:rgb(246,246,255);
+box-shadow:0 0 16px 4px rgba(0,0,0,0.781);
+font-family:'Source Code Pro',monospace;
+}
+
+.card img {
+box-sizing:border-box;
+width:100%;
+padding:30px;
+background-color:grey;
+}
+
+
+.title {
+color:rgb(94,94,94);
+font-size:20px;
+text-transform:uppercase;
+}
+
+
+
+a{
+  text-decoration: none;
+  font-size: 7vh;
+  color: rgb(94,94,94);
+  padding: 3px
+}
+
+
+.instagram:hover{
+  height: 8px;
+  border-radius:5px;
+  padding:1px;
+   align-items: center;
+background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+ color: white;
+}
+
+.whatsapp:hover{
+ height: 8px;
+  border-radius:5px;
+  padding:1px;
+   align-items: center;
+background: #4AC959;
+color: white;
+}
+
+
+.phone:hover{
+ height: 8px;
+  border-radius:5px;
+  padding:1px;
+   align-items: center;
+background: #000000;
+color: white;
+}
+
+.gmail:hover{
+ height: 8px;
+  border-radius:5px;
+  padding:1px;
+   align-items: center;
+background:#FF2727;
+color: white;
+}
+
+.telegram:hover{
+ height: 8px;
+  border-radius:5px;
+  padding:1px;
+   align-items: center;
+background:#0088CC;
+color: white;
+}
+
+footer{
+  background-color:rgb(246,246,255);
+  color: white;
+
+  
+}
+
+footer h6{
+  color: #242424;
+}
