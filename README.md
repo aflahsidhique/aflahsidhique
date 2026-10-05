@@ -1,78 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Aflah and I'm a Computer Engineering Student, from Seethi Sahib Memorial Polytechnic College,Tirur</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">Social Handles</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://in.linkedin.com/in/aflah-sidhique-mk-026985245?trk=people-guest_people_search-card" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discordapp.com/users/824555000117067796" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="aflahsidhique@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/aflah_sidhique/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/919526747738" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/Aflahsidhique" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/aflahsidhique/aflahsidhique/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aflahsidhique/count.svg?"  />
-</div>
-
-###
+<article class="_readmeDocument_1os9c_1590" aria-label="aflahsidhique README preview"><p align="center">
+<img alt="Aflah Sidhique hero visual" src="https://www.gitskins.com/api/section/hero?username=aflahsidhique&amp;theme=matrix&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81468620%3Fu%3Deb3dad420174315399135166fa3b8559cc358c8c%26v%3D4&amp;v=showcase-hero-1">
+</p>
+<p align="center">
+<img alt="Aflah Sidhique system-scan visual" src="https://www.gitskins.com/api/section/system-scan?username=aflahsidhique&amp;theme=matrix&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81468620%3Fu%3Deb3dad420174315399135166fa3b8559cc358c8c%26v%3D4&amp;v=showcase-system-scan-2">
+</p>
+<p align="center">
+<img alt="Aflah Sidhique projects visual" src="https://www.gitskins.com/api/section/projects?username=aflahsidhique&amp;theme=matrix&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81468620%3Fu%3Deb3dad420174315399135166fa3b8559cc358c8c%26v%3D4&amp;v=showcase-projects-3">
+</p>
+<p align="center">
+<img alt="Aflah Sidhique stack visual" src="https://www.gitskins.com/api/section/stack?username=aflahsidhique&amp;theme=matrix&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81468620%3Fu%3Deb3dad420174315399135166fa3b8559cc358c8c%26v%3D4&amp;v=showcase-stack-4">
+</p>
+<p align="center">
+<img alt="Aflah Sidhique heatmap visual" src="https://www.gitskins.com/api/section/heatmap?username=aflahsidhique&amp;theme=matrix&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81468620%3Fu%3Deb3dad420174315399135166fa3b8559cc358c8c%26v%3D4&amp;v=showcase-heatmap-5">
+</p></article>
